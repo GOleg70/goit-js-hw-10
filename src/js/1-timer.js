@@ -103,4 +103,4 @@ startButton.addEventListener('click', () => {
     minutesValue.textContent = addLeadingZero(minutes);
     secondsValue.textContent = addLeadingZero(seconds);
   }, 1000); 
-});
+}); 
