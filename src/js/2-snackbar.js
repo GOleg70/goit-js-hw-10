@@ -33,5 +33,5 @@ function handleClick(event) {
                          position: "topRight"
                         }))
     }, delayValue)
-    event.target.reset(); 
+    form.reset(); 
 }
